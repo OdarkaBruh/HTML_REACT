@@ -1,0 +1,8 @@
+
+    [
+    { "id": 0, "name":"Продавець-стиліст", "salary":"30 000", "companyName": "Helen Marlen", "adress":"Київ, вулиця Басейна, 4а", "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+    { "id": 1, "name":"Водій на авто компанії", "salary":"45 000", "companyName": "Нова пошта, ТОВ", "adress":"Київ", "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo"},
+    { "id": 2, "name":"Продавець у кав'ярню", "salary":"16 200", "companyName": "Слюсаренко С.А., ФЛП", "adress":"Київ", "description": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth.\nPor scientie, musica, sport etc, litot Europa usa li sam vocabular"},
+    { "id": 3, "name":"Бармен", "salary":"22 000", "companyName": "Мама Манана", "adress":"Київ", "description": "Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus."},
+    { "id": 4, "name":"Вантажник-комплектувальник", "salary":"12 000", "companyName": "Українські свіжо-заморожені продукти, ТОВ", "adress":"Київ, вулиця Сім'ї Сосніних, 9", "description": "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.\nDonec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."}
+  ]
